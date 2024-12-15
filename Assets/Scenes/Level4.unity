@@ -38,7 +38,6 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -740,7 +739,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8004888457058091391, guid: 5ae6ce85a8accc74887f0bc074caa7c0, type: 3}
       propertyPath: nextLevelName
-      value: Start
+      value: Level5
       objectReference: {fileID: 0}
     - target: {fileID: 8004888457058091391, guid: 5ae6ce85a8accc74887f0bc074caa7c0, type: 3}
       propertyPath: thisLevelName
@@ -3831,6 +3830,7 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
+  m_VertexColorAlwaysGammaSpace: 0
   m_AdditionalShaderChannelsFlag: 0
   m_SortingLayerID: 0
   m_SortingOrder: 0
