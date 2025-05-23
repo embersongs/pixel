@@ -1,2 +1,2 @@
 # pixel
-game
+game 2
